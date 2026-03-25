@@ -18,3 +18,10 @@
 ## メモ
 通常の GitHub リポジトリでは大きいファイルに制限があるため、
 容量が大きい配布ファイルは Releases を使う想定です。
+
+## ライセンス
+特記のない限り、このリポジトリの内容は
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+のもとで提供します。
+
+https://creativecommons.org/licenses/by/4.0/
