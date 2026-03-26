@@ -147,7 +147,10 @@ a:focus-visible {
 }
 
 .links {
-  padding-left: 1.25rem;
+  margin-bottom: var(--space-4);
+}
+
+.item > .links:last-child {
   margin-bottom: 0;
 }
 
